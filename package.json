@@ -1,5 +1,5 @@
 {
-  "name": "stripe",
+  "name": "svelte-ts-tailwind-jest-vite",
   "version": "0.0.0",
   "scripts": {
     "build": "vite build",
