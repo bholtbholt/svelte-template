@@ -10,7 +10,11 @@ This is a template to quickly get started with a Svelte project.
 
 ### Startup
 
-- Run `npm run dev` and visit `http://localhost:3000/`
+```
+npm install
+npm run dev
+# then visit http://localhost:3000/
+```
 
 ### Tech
 
