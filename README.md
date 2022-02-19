@@ -29,7 +29,6 @@ npm run dev
 - `./components`: App UI, written in Svelte.
 - `./entry`: CSS + JavaScript entry files.
 - `./stores`: Reactive Svelte stores used by the UI. Stores are similar to _Models_ in design and primarily used for shared state between components.
-- `./types`: Global types for the app.
 
 ## Testing
 
